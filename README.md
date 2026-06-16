@@ -37,4 +37,4 @@ php artisan serve
 
 **Manoj Kumar (M.Rajpoot)**
 - GitHub: [@manojcodings](https://github.com/manojcodings)
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/manoj-kumar-684b133a6/
